@@ -6,8 +6,6 @@ Welcome to the AI-Driven Mental Health Chatbot project! This is an advanced, pri
 
 ## **Key Features**
 
-**1.Real-Time Mood Detection:**
-
 1. **Real-Time Mood Detection**:
    - Analyzes user inputs (text/voice) to detect mood and emotional state.
    - Utilizes multimodal fusion with Late Fusion Networks for enhanced accuracy.
