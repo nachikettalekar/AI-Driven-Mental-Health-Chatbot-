@@ -127,5 +127,5 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## **Note**
-This chatbot is not a substitute for professional mental health care. Always consult a licensed therapist or healthcare provider for clinical support. (can you develop this complete project?)
+This chatbot is not a substitute for professional mental health care. Always consult a licensed therapist or healthcare provider for clinical support. 
 
