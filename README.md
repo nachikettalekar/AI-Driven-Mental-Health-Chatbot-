@@ -1,5 +1,5 @@
 
-# **AI-Driven Mental Health Chatbot🤖**
+# **AI-Driven Mental Health Chatbot🤖** (To be completed)
 
 Welcome to the AI-Driven Mental Health Chatbot project! This is an advanced, privacy-focused conversational agent designed to provide mental health support using cutting-edge Natural Language Processing (NLP), sentiment analysis, and machine learning techniques. The chatbot offers real-time mood detection, personalized resource recommendations, and secure data handling to ensure user privacy and trust.
 
